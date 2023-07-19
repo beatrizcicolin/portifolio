@@ -14,4 +14,6 @@ Seguindo o curso básico de HTML e CSS da Alura tive a oportunidade de desenvolv
 </ul>
 <h2> Feito por: </h2>
      Beatriz Cicolin
+     <br>
+    Linkedin:  https://www.linkedin.com/in/beatrizcicolin/
 
